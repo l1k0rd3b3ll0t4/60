@@ -1,0 +1,22 @@
+
+****************** DIRS **************
+
+/themes
+/includes
+/javascript
+/widgets
+/installer
+/wizards
+/shortcuts
+/css
+/classes
+/tree
+
+
+
+
+
+txt,md,rc,conf,cnf,inc,php,html,cgi,phtml,pl,py
+***************** FILES **************
+
+
